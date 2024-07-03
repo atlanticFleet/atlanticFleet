@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://atlanticfleet.github.io/atlanticFleet/sitemap.xml
