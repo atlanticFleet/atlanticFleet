@@ -14,15 +14,15 @@
             "id": "https://atlanticfleet.github.io/atlanticFleet/text-to-speech.html",
             "url": "https://atlanticfleet.github.io/atlanticFleet/text-to-speech.html",
             "title": "Text to Speech",
-            "summary": "I just added a TTS (Text to Speech) bot for anyone uncomfortable with actually speaking in voice call, for whatever reason you might have (non-native English speaker, want to keep your identity under wraps). To use it, just prefix anything you say with \"/tts\" in&hellip;",
-            "content_html": "<p>I just added a TTS (Text to Speech) bot for anyone uncomfortable with actually speaking in voice call, for whatever reason you might have (non-native English speaker, want to keep your identity under wraps). To use it, just prefix anything you say with \"/tts\" in the <span class=\"channelMention wrapper_bf1b19 interactive\" tabindex=\"0\" role=\"link\"><span class=\"channelWithIcon iconMentionText_bf515c\"><span class=\"nowrap_aeef8c\"><svg class=\"icon_bf515c\" aria-label=\"Channel\" aria-hidden=\"false\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewbox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M10.99 3.16A1 1 0 1 0 9 2.84L8.15 8H4a1 1 0 0 0 0 2h3.82l-.67 4H3a1 1 0 1 0 0 2h3.82l-.8 4.84a1 1 0 0 0 1.97.32L8.85 16h4.97l-.8 4.84a1 1 0 0 0 1.97.32l.86-5.16H20a1 1 0 1 0 0-2h-3.82l.67-4H21a1 1 0 1 0 0-2h-3.82l.8-4.84a1 1 0 1 0-1.97-.32L15.15 8h-4.97l.8-4.84ZM14.15 14l.67-4H9.85l-.67 4h4.97Z\" clip-rule=\"evenodd\" class=\"\"></path></svg>⁠</span><span class=\"name_bf515c\">dev-meeting-text</span></span></span> channel during a voice call.</p>",
+            "summary": "I just added a TTS (Text to Speech) bot for anyone uncomfortable with actually speaking in voice call, for whatever reason you might have (non-native English speaker, want to keep your identity under wraps). To use it, just prefix anything you say with \"/say\" in&hellip;",
+            "content_html": "<p>I just added a TTS (Text to Speech) bot for anyone uncomfortable with actually speaking in voice call, for whatever reason you might have (non-native English speaker, want to keep your identity under wraps). To use it, just prefix anything you say with \"/say\" in the <span class=\"channelMention wrapper_bf1b19 interactive\" tabindex=\"0\" role=\"link\"><span class=\"channelWithIcon iconMentionText_bf515c\"><span class=\"nowrap_aeef8c\"><svg class=\"icon_bf515c\" aria-label=\"Channel\" aria-hidden=\"false\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewbox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M10.99 3.16A1 1 0 1 0 9 2.84L8.15 8H4a1 1 0 0 0 0 2h3.82l-.67 4H3a1 1 0 1 0 0 2h3.82l-.8 4.84a1 1 0 0 0 1.97.32L8.85 16h4.97l-.8 4.84a1 1 0 0 0 1.97.32l.86-5.16H20a1 1 0 1 0 0-2h-3.82l.67-4H21a1 1 0 1 0 0-2h-3.82l.8-4.84a1 1 0 1 0-1.97-.32L15.15 8h-4.97l.8-4.84ZM14.15 14l.67-4H9.85l-.67 4h4.97Z\" clip-rule=\"evenodd\" class=\"\"></path></svg>⁠</span><span class=\"name_bf515c\">dev-meeting-text</span></span></span> channel during a voice call.</p>",
             "author": {
                 "name": "warelock"
             },
             "tags": [
             ],
             "date_published": "2024-07-05T15:58:53-07:00",
-            "date_modified": "2024-07-05T15:58:53-07:00"
+            "date_modified": "2024-07-08T22:13:37-07:00"
         },
         {
             "id": "https://atlanticfleet.github.io/atlanticFleet/the-importance-of-perfect-fungibility.html",
