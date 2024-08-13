@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://atlanticfleet.github.io/atlanticFleet/calling-all-bitcoin-maxis.html",
+            "url": "https://atlanticfleet.github.io/atlanticFleet/calling-all-bitcoin-maxis.html",
+            "title": "Calling All Bitcoin &quot;Maxis&quot;",
+            "summary": "Take a moment and ask yourself: Why do I love the idea of literally the WHOLE WORLD knowing my Bitcoin balance? There are so many bad consequences that can come from that. Have a huge balance? Get ready to be targeted by thieves. Don't know&hellip;",
+            "content_html": "<p>Take a moment and ask yourself: Why do I love the idea of literally the WHOLE WORLD knowing my Bitcoin balance? There are so many bad consequences that can come from that. Have a huge balance? Get ready to be targeted by thieves. Don't know that your coins were used in illegal activities? Get ready to have your coins become second class and by extension, so you then become second class.</p>\n<p>Privacy and anonymity are KING, but the devil's in the tech details. The so-called \"privacy tech\" in Monero isn't private at all. It tries to achieve privacy through obscurity and is actually vulnerable to what is known as a \"dust attack\" that exposes the paltry few decoy addresses hiding your real transaction. This is too important to dick around with.</p>\n<p><strong>Only one crypto gets this right, providing <span style=\"color: #e03e2d;\">perfect fungibility</span></strong>: <a href=\"https://piratechain.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Pirate Chain</a>. Zero Knowledge Proof privacy/anonymity tech is unsurpassed. 100% mandatory private transactions means exactly zero transaction data leaks, forever. With <a href=\"https://explorer.piratechain.com/stats\" target=\"_blank\" rel=\"noopener noreferrer\">by far the biggest \"anonset\" (in the millions and growing with each new transaction)</a>, Pirate Chain is the clear choice in securing your financial autonomy, beyond the control of CBDCs.</p>\n<p>So, stop chanting crap like \"When crypto lambo, bruh?\" and \"Number go up!\" Don't buy crypto. Don't invest in crypto. Earn it and spend it instead. That's what it was invented for in the first place.</p>",
+            "author": {
+                "name": "warelock"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-13T01:18:21-07:00",
+            "date_modified": "2024-08-13T01:18:21-07:00"
+        },
+        {
             "id": "https://atlanticfleet.github.io/atlanticFleet/text-to-speech.html",
             "url": "https://atlanticfleet.github.io/atlanticFleet/text-to-speech.html",
             "title": "Text to Speech",
